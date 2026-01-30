@@ -227,6 +227,3 @@ Grupo: El mejor grupo
 
 Libre para uso educativo
 
-## Versión
-
-v1.0 - Enero 2026
