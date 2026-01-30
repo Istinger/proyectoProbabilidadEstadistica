@@ -218,12 +218,3 @@ P,4,2,12
 3. Ross, S. M. Introducción a la Probabilidad. Academic Press.
 4. Apuntes de clase – Universidad Politécnica Salesiana
 
-## Autor
-
-Proyecto educativo de Probabilidad y Estadística  
-Grupo: El mejor grupo
-
-## Licencia
-
-Libre para uso educativo
-
